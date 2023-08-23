@@ -1,3 +1,5 @@
+
+
 let str = "naman";
 
 
@@ -19,3 +21,4 @@ else
 {
 console.log("not palindrome")
 }
+
